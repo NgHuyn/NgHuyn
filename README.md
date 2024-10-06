@@ -1,9 +1,5 @@
 ## Hi, I'm Ngoc Huyen! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> 
-**I'm a Data Science enthusiast focused on data analysis, machine learning, and predictive modeling. I love turning raw data into actionable insights and working on projects that combine analysis and automation.**
-
-🔍 Currently exploring: ETL pipelines & API integration
-
-🚀 Interested in: Sales insights, data prediction, and process automation
+I'm a final-year student majoring in Data Science, passionate about transforming raw data into actionable insights. My focus lies in data analysis, predictive modeling, and process automation. I thrive on tackling real-world problems through data-driven solutions.
 
 <details>
   <summary><b>Where to find me</b></summary>
