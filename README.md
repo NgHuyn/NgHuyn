@@ -1,8 +1,6 @@
 ## Hi, I'm Ngoc Huyen! 🙋‍♀️
 
-<!--
-**NgHuyn/NgHuyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nhnhuyen/)](https://www.linkedin.com/in/nhnhuyen/)
 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=NgHuyn&show_icons=true&theme=gotham" alt="NgHuyn" />
