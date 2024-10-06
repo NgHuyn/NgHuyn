@@ -1,7 +1,8 @@
 ## Hi, I'm Ngoc Huyen! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> 
-I'm a Data Science enthusiast focused on data analysis, machine learning, and predictive modeling. I love turning raw data into actionable insights and working on projects that combine analysis and automation.
+**I'm a Data Science enthusiast focused on data analysis, machine learning, and predictive modeling. I love turning raw data into actionable insights and working on projects that combine analysis and automation.**
 
 🔍 Currently exploring: ETL pipelines & API integration
+
 🚀 Interested in: Sales insights, data prediction, and process automation
 
 ### Connect with me:
@@ -32,10 +33,10 @@ I'm a Data Science enthusiast focused on data analysis, machine learning, and pr
 ---
 
 <div align="center" >
-<a  href="https://github.com/SP-XD">
+<a  href="https://github.com/NgHuyn">
 
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/NgHuyn/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/NgHuyn/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
 
 </a>
 
