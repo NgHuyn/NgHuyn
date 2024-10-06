@@ -5,18 +5,19 @@
 
 🚀 Interested in: Sales insights, data prediction, and process automation
 
-### Connect with me:
+<details>
+  <summary><b>Where to find me</b></summary>
+  
+[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/NgHuyn)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nhnhuyen/)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@ngochuyennh3467)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/sia.hyun.96/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/nhnhuynn/)
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/@ngochuyennh3467#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/@ngochuyennh3467#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/nhnhuyen/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/nhnhuyen/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/nhnhuynn/?next=%2F#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/nhnhuynn/?next=%2F#gh-dark-mode-only)
+</details>
 
-### Languages and Tools:
+<details>
+  <summary><b>Languages and Tools</b></summary>
 
 <hr></hr>
 
@@ -31,6 +32,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+</details>
 
 <h2> Github Stats </h2> 
 <a href="https://github.com/NgHuyn/github-readme-stats"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgHuyn&layout=compact&theme=tokyonight" /></a>
