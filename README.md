@@ -35,7 +35,6 @@ I'm a final-year student majoring in Data Science, passionate about transforming
 <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=NgHuyn&theme=tokyonight" alt="NgHuyn" />
 <br/>
 
-<h2> LeetCode Stat </h2>
-![Enter some description](https://leetcode-badge-sage.vercel.app/badge/NgHuyn?theme={neutral})
+![Github Stats](https://leetcode-badge-sage.vercel.app/badge/NgHuyn?theme={neutral})
 
 
