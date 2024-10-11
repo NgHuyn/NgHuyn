@@ -37,6 +37,6 @@ I'm a final-year student majoring in Data Science, passionate about transforming
 
 <h2> LeetCode Stat </h2>
 
-![LeetCode Stats](https://leetcode-badge-sage.vercel.app/badge/NgHuyn?theme={dark})
+![NgHuyen's LeetCode stats dark](https://leetcode-badge-sage.vercel.app/badge/NgHuyn?theme=dark&bgColor=282828)
 
 
