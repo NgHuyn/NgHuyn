@@ -29,6 +29,8 @@ I'm a final-year student majoring in Data Science, passionate about transforming
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Prefect](https://img.shields.io/badge/Prefect-292F36?style=flat&logo=prefect&logoColor=white)
+
 </details>
 
 <h2> Github Stats </h2> 
