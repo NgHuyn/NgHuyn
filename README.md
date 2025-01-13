@@ -33,11 +33,6 @@ I'm a final-year student majoring in Data Science, passionate about transforming
 
 </details>
 
-<h2> Github Stats </h2> 
-<a href="https://github.com/NgHuyn/github-readme-stats"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgHuyn&layout=compact&theme=tokyonight" /></a>
-<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=NgHuyn&theme=tokyonight" alt="NgHuyn" />
-<br/>
-
 <h2> LeetCode Stat </h2>
 
 ![NgHuyen's LeetCode stats dark](https://leetcode-badge-sage.vercel.app/badge/NgHuyn?theme=dark&bgColor=282828)
