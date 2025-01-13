@@ -42,4 +42,3 @@ I'm a final-year student majoring in Data Science, passionate about transforming
 <a href="https://leetcode-badge-sage.vercel.app/badge/NgHuyn?theme=dark&bgColor=282828">
   <img src="https://leetcode-badge-sage.vercel.app/badge/NgHuyn?theme=dark&bgColor=282828" alt="LeetCode Stat" />
 </a>
-<br/>
