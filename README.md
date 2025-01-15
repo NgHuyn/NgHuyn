@@ -41,16 +41,4 @@ I'm a final-year student majoring in Data Science, passionate about transforming
   <img src="https://leetcode-badge-sage.vercel.app/badge/NgHuyn?theme=dark&bgColor=282828" alt="LeetCode Stat" />
 </a>
 
-## Top Repositories
-
-<a href="https://github.com/NgHuyn/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NgHuyn&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/NgHuyn/NgHuyn.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NgHuyn&repo=NgHuyn.github.io&theme=buefy" />
-</a>
-
-<br />
-<br />
-
 
