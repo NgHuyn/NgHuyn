@@ -34,7 +34,7 @@ I'm a final-year student majoring in Data Science, passionate about transforming
 </details>
 
 ## Github Stats
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="NgHuyn's github stats" /></a> | <a href="https://github.com/NgHuyn/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/NgHuyn/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NgHuyn&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="NgHuyn's github stats" /></a> | <a href="https://github.com/NgHuyn/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgHuyn&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 ## LeetCode Stat
 <a href="https://leetcode-badge-sage.vercel.app/badge/NgHuyn?theme=dark&bgColor=282828">
@@ -43,7 +43,7 @@ I'm a final-year student majoring in Data Science, passionate about transforming
 
 ## Top Repositories
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/NgHuyn/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NgHuyn&repo=github-readme-stats&theme=buefy" />
 </a>
 <a href="https://github.com/NgHuyn/NgHuyn.github.io">
