@@ -1,5 +1,5 @@
 ## Hi, I'm Ngoc Huyen! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> 
-I'm a graduate student majoring in Data Science, passionate about transforming raw data into actionable insights. My focus lies in data analysis, predictive modeling, and process automation. I thrive on tackling real-world problems through data-driven solutions.
+I am a Data Analyst with a background in Data Science, passionate about transforming raw platform data into strategic business decisions. My expertise lies in digging deep into performance metrics, mapping out user adoption funnels, and uncovering actionable insights from complex datasets. Whether I'm writing highly optimized SQL queries or designing scalable data solutions, I thrive on turning numbers into real-world impact.
 
 <details>
   <summary><b>Where to find me</b></summary>
@@ -27,6 +27,8 @@ I'm a graduate student majoring in Data Science, passionate about transforming r
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=google-cloud&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Prefect](https://img.shields.io/badge/Prefect-292F36?style=flat&logo=prefect&logoColor=white)
@@ -36,8 +38,8 @@ I'm a graduate student majoring in Data Science, passionate about transforming r
 ## Github Stats
 | <a href="https://github.com/NgHuyn/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NgHuyn&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="NgHuyn's github stats" /></a> | <a href="https://github.com/NgHuyn/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgHuyn&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+
 ## LeetCode Stat
 ![Database Focus](https://img.shields.io/badge/LeetCode_Focus-Database_%26_SQL-02569B?style=flat&logo=postgresql)
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/NgHuyn?theme=dark&font=Noto%20Sans&ext=heatmap)
-
-
