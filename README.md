@@ -1,5 +1,5 @@
 ## Hi, I'm Ngoc Huyen! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> 
-I'm a final-year student majoring in Data Science, passionate about transforming raw data into actionable insights. My focus lies in data analysis, predictive modeling, and process automation. I thrive on tackling real-world problems through data-driven solutions.
+I'm a graduate student majoring in Data Science, passionate about transforming raw data into actionable insights. My focus lies in data analysis, predictive modeling, and process automation. I thrive on tackling real-world problems through data-driven solutions.
 
 <details>
   <summary><b>Where to find me</b></summary>
@@ -37,6 +37,7 @@ I'm a final-year student majoring in Data Science, passionate about transforming
 | <a href="https://github.com/NgHuyn/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NgHuyn&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="NgHuyn's github stats" /></a> | <a href="https://github.com/NgHuyn/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgHuyn&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 ## LeetCode Stat
+![Database Focus](https://img.shields.io/badge/LeetCode_Focus-Database_%26_SQL-02569B?style=flat&logo=postgresql)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/NgHuyn?theme=dark&font=Noto%20Sans&ext=heatmap)
 
 
