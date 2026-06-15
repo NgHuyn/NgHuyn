@@ -37,8 +37,6 @@ I'm a final-year student majoring in Data Science, passionate about transforming
 | <a href="https://github.com/NgHuyn/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NgHuyn&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="NgHuyn's github stats" /></a> | <a href="https://github.com/NgHuyn/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgHuyn&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 ## LeetCode Stat
-<a href="https://leetcode-badge-sage.vercel.app/badge/NgHuyn?theme=dark&bgColor=282828">
-  <img src="https://leetcode-badge-sage.vercel.app/badge/NgHuyn?theme=dark&bgColor=282828" alt="LeetCode Stat" />
-</a>
+![LeetCode Stats](https://leetcard.jacoblin.cool/NgHuyn?theme=dark&font=Noto%20Sans&ext=heatmap)
 
 
